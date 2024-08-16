@@ -1,0 +1,23 @@
+Introduction to AWS Cloud Computing
+ -Cloud computing refers to the delivery of computing services—such as servers, storage, databases, networking, software, analytics, and intelligence—over the internet ("the cloud").  It enables users to access and use IT resources on-demand without the need for owning and maintaining physical data centers or servers.
+ *Six Benefits of Cloud Computing
+   Cloud computing benefits organizations in many ways . It offers several key advantages for businesses:
+ 1) Shift to Variable Costs: Pay only for the computing resources you use, avoiding large upfront investments in hardware.
+ 2)Eliminate Data Center Management: Focus on innovation rather than maintaining infrastructure, reducing the need for costly IT resources.
+ 3)Scale Easily: Adjust your capacity on demand, avoiding the risks of over- or under-provisioning.
+ 4)Cost Efficiency: Benefit from the lower costs offered by large-scale cloud providers like AWS.
+ 5)Increase Agility: Deploy applications faster, allowing quicker time to market for new innovations.
+ 6)Global Reach: Easily deploy applications worldwide, ensuring low latency and high performance for users anywhere.
+ *Deploying to the Cloud
+   Deploying to the cloud involves moving applications, services, or data to a cloud environment, where they can be accessed, managed, and scaled as needed.
+     -Service Models:
+IaaS (Infrastructure as a Service): Provides virtual servers, storage, and networking.
+PaaS (Platform as a Service): Offers a platform for building and deploying apps without managing infrastructure.
+SaaS (Software as a Service): Delivers software over the internet, accessible via a web browser.
+     -Deployment Strategies:
+Cloud: Entirely hosted on cloud infrastructure, with all components running in the cloud.
+Hybrid: Combines on-premises and cloud resources, extending existing systems into the cloud.
+On-Premises: Runs entirely within your own data center, without cloud benefits.
+In all models, the cloud provider secures the cloud infrastructure, while you manage security within your environment.
+  
+   
