@@ -1,0 +1,38 @@
+**AWS Overview
+1)Compute: Scalable resources like EC2 for running applications.
+2)Storage: S3 and EBS for secure, scalable data storage.
+3)Database: Managed databases like RDS and DynamoDB.
+4)Analytics: Tools like Athena and Redshift for data insights.
+5)Networking & Content Delivery: Services like VPC and CloudFront for secure networking and fast content delivery.
+6)Developer Tools: CI/CD tools like CodePipeline.
+7)Business Applications: Services like WorkSpaces for business needs.
+8)Management & Governance: Monitoring and management with CloudWatch.
+9)Machine Learning: SageMaker for building ML models.
+10)Security & Identity: IAM for managing access and security.
+11)IoT: AWS IoT for managing IoT devices.
+**AWS Benefits
+1)On-Demand Access: Immediate resource availability.
+2)Pay-As-You-Go: Only pay for what you use.
+3)No Upfront Costs: Avoid large capital expenses.
+4)Tool Variety: A wide range of services for building applications.
+**AWS Global Infrastructure
+1)Regions: Geographically distinct areas with multiple availability zones.
+2)Availability Zones: Isolated data centers ensuring high availability.
+3)Edge Locations: Over 150 endpoints for fast content delivery.
+**AWS Advantages
+1)Flexible: Easily scalable services.
+2)Reliable: Built-in redundancy and fault tolerance.
+3)Secure: Robust security features.
+4)Scalable: Adaptable to growing workloads.
+5)Cost-Effective: Pay only for what you use.
+**Shared Responsibility Model
+AWS: Manages cloud infrastructure security.
+Customers: Secure their data and applications.
+**AWS Well-Architected Framework
+Guidelines for building secure, efficient, and resilient systems on AWS.
+
+
+
+
+
+
